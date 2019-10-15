@@ -1,0 +1,3 @@
+C:\_git\az203-demo-webapp\obj\Debug\netcoreapp2.2\az203-demo-webapp.csprojAssemblyReference.cache
+C:\_git\az203-demo-webapp\obj\Debug\netcoreapp2.2\az203-demo-webapp.AssemblyInfoInputs.cache
+C:\_git\az203-demo-webapp\obj\Debug\netcoreapp2.2\az203-demo-webapp.AssemblyInfo.cs
